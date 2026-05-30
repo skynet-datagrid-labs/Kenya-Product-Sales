@@ -1,2 +1,10 @@
 # Kenya-Product-Sales
-KPI dashboard tracking revenue, profit, units sold, and cost of goods sold across Kenyan counties, products, and customers (2020–2022)
+
+Power BI sales dashboard for a Kenyan FMCG business tracking:
+
+- Revenue
+- Profit
+- Units sold
+- Cost of goods sold (COGS)
+
+The dashboard supports analysis by month, county, product, and customer, and includes slicers for quarter, company, and product category.
