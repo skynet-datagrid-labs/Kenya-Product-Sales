@@ -5,8 +5,10 @@
 ---
 
 ##  Live Demo
-
-![Kenya Sales KPI Dashboard](assets/SalesKPIKenya.gif)
+| Platform | Demonstration |
+|---|---|
+| Tableau | ![Kenya Sales KPI Dashboard](https://raw.githubusercontent.com/skynet-datagrid-labs/Kenya-Product-Sales/main/assets/SalesKPIKenya.gif) | 
+| Description | *Tableau KPI dashboard tracking Revenue, Profit, Units Sold, and Cost of Goods Sold across major beverage companies including Coca-Cola, Dr. Pepper, and Pepsi. Features a quarter range slicer (2020–2023), dynamic metric selector, multi-filter panel by region, company, and category, and cross-filtered views for units sold by month, state, product, and customer.* |
 
 ---
 
