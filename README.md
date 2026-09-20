@@ -4,10 +4,10 @@
 
 ---
 
-##  Live Demo
+## Live Demo
 | Platform | Demonstration |
 |---|---|
-| Tableau | ![Kenya Sales KPI Dashboard](https://raw.githubusercontent.com/skynet-datagrid-labs/Kenya-Product-Sales/main/assets/SalesKPIKenya.gif) | 
+| Tableau | ![Kenya Sales KPI Dashboard](https://raw.githubusercontent.com/skynet-datagrid-labs/Kenya-Product-Sales/main/assets/SalesKPIKenya.gif) |
 | Description | *Tableau KPI dashboard tracking Revenue, Profit, Units Sold, and Cost of Goods Sold across major beverage companies including Coca-Cola, Dr. Pepper, and Pepsi. Features a quarter range slicer (2020–2023), dynamic metric selector, multi-filter panel by region, company, and category, and cross-filtered views for units sold by month, state, product, and customer.* |
 
 ---
@@ -20,14 +20,14 @@ This project visualises sales performance data for an FMCG business operating ac
 
 | Metric | Value (Full Period) |
 |---|---|
-|  Revenue | 47,712 |
-|  Profit | 21,708 |
-|  Units Sold | 4,921 |
-|  Cost of Goods Sold | 26,004 |
+| Revenue | 47,712 |
+| Profit | 21,708 |
+| Units Sold | 4,921 |
+| Cost of Goods Sold | 26,004 |
 
 ---
 
-##  Features
+## Features
 
 - **Revenue by Month** — Line chart showing monthly revenue trends from Q1 2020 through Q3 2022
 - **Revenue by County** — Choropleth map of Kenya highlighting revenue concentration by region
@@ -38,7 +38,7 @@ This project visualises sales performance data for an FMCG business operating ac
 
 ---
 
-##  Repository Structure
+## Repository Structure
 
 ```
 Kenya-Product-Sales/
@@ -53,12 +53,12 @@ Kenya-Product-Sales/
 
 ---
 
-##  Getting Started
+## Getting Started
 
 1. Clone the repository:
-   ```bash
+```bash
    git clone https://github.com/<your-username>/Kenya-Product-Sales.git
-   ```
+```
 
 2. Open the Tableau workbook (`.twbx`) from the `data/` folder in **Tableau Public Desktop**.
 
@@ -68,7 +68,7 @@ Kenya-Product-Sales/
 
 ---
 
-##  Data Scope
+## Data Scope
 
 - **Period:** Q1 2020 – Q3 2022
 - **Geography:** Kenya (county-level)
@@ -77,16 +77,16 @@ Kenya-Product-Sales/
 
 ---
 
-##  Contributing
+## Contributing
 
 Contributions, issues, and feature requests are welcome. Feel free to open an issue or submit a pull request.
 
 ---
 
-##  License
+## License
 
 This project is open source. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-*Built  using Tableau Public*
+*Built using Tableau Public*
